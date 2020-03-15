@@ -1,5 +1,5 @@
 {
-  "name": "findandreplacedomtext-with-offset",
+  "name": "heti-findandreplacedomtext",
   "version": "0.5.0",
   "main": "./src/findAndReplaceDOMText.js",
   "description": "findAndReplaceDOMText: DOM find/replace utility",
